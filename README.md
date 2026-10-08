@@ -1,4 +1,4 @@
-# DITA Specialization for Bootstrap Extension 
+# DITA Specialization for Bootstrap Extension
 
 DITA Bootstrap Extension Specialization is a [DITA Open Toolkit plug-in](https://www.dita-ot.org/plugins) that provides the DTD specializations for the [DITA Bootstrap Extension plug-in](https://dita-bootstrap.org/dita-bootstrap.extension).
 
