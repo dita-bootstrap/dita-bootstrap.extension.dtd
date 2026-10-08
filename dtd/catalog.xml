@@ -28,7 +28,7 @@
   />
   <public
     publicId="-//DITA Bootstrap//ELEMENTS DITA Bootstrap Common Overrides//EN"
-    uri="plugin:org.dita-bootstrap.dtd/dtd/base/commonElements.mod"
+    uri="plugin:org.dita-bootstrap.dtd/dtd/base/bootstrapCommonElements.mod"
   />
 
   <system
@@ -48,7 +48,7 @@
     uri="plugin:org.dita-bootstrap.dtd/dtd/base/bootstrapDomain.mod"
   />
   <systemSuffix
-    systemIdSuffix="commonElements.mod"
-    uri="plugin:org.dita-bootstrap.dtd/dtd/base/commonElements.mod"
+    systemIdSuffix="bootstrapCommonElements.mod"
+    uri="plugin:org.dita-bootstrap.dtd/dtd/base/bootstrapCommonElements.mod"
   />
 </catalog>

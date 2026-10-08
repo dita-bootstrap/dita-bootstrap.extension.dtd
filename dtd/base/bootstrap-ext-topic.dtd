@@ -156,7 +156,7 @@
 
 <!ENTITY % commonElements-def
   PUBLIC "-//DITA Bootstrap//ELEMENTS DITA Bootstrap Common Overrides//EN"
-         "commonElements.mod"
+         "bootstrapCommonElements.mod"
 >%commonElements-def;
 
 <!-- ============================================================= -->
