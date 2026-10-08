@@ -37,7 +37,7 @@ jobs:
             mkdir -p dtd/base
             curl -L https://raw.githubusercontent.com/dita-bootstrap/dita-bootstrap.dtd/develop/dtd/base/bootstrapDomain.ent -o dtd/base/bootstrapDomain.ent
             curl -L https://raw.githubusercontent.com/dita-bootstrap/dita-bootstrap.dtd/develop/dtd/base/bootstrapDomain.mod -o dtd/base/bootstrapDomain.mod
-            curl -L https://raw.githubusercontent.com/dita-bootstrap/dita-bootstrap.dtd/develop/dtd/base/commonElements.mod -o dtd/base/commonElements.mod
+            curl -L https://raw.githubusercontent.com/dita-bootstrap/dita-bootstrap.dtd/develop/dtd/base/bootstrapCommonElements.mod -o dtd/base/bootstrapCommonElements.mod
           plugins: |
             fox.jason.extend.css
             https://github.com/dita-bootstrap/dita-bootstrap.dtd/archive/develop.zip
