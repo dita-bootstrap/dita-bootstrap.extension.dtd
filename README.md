@@ -7,7 +7,7 @@ DITA Bootstrap Extension Specialization is a [DITA Open Toolkit plug-in](https:/
 Use the `dita` command to add this plug-in and its requirements to your DITA Open Toolkit installation:
 
 ```console
-dita install dita-bootstrap.extension.specialization
+dita install dita-bootstrap.extension.dtd
 dita install dita-bootstrap.extension
 ```
 

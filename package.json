@@ -1,10 +1,10 @@
 {
-  "name": "dita-bootstrap.extension.specialization",
+  "name": "dita-bootstrap.extension.dtd",
   "description": "DTD Specialization for the DITA Bootstrap HTML output with additional features from the Bootstrap Extension library.",
-  "homepage": "https://dita-bootstrap.org/dita-bootstrap.extension.specialization",
+  "homepage": "https://dita-bootstrap.org/dita-bootstrap.extension.dtd",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dita-bootstrap/dita-bootstrap.extension.specialization.git"
+    "url": "https://github.com/dita-bootstrap/dita-bootstrap.extension.dtd.git"
   },
   "license": "Apache-2.0",
   "scripts": {

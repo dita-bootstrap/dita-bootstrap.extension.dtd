@@ -14,23 +14,21 @@
   />
 
   <!-- Explicitly chain the core catalog if global resolution fails -->
-  <nextCatalog
-    catalog="plugin:org.dita-bootstrap.specialization:dtd/catalog.xml"
-  />
+  <nextCatalog catalog="plugin:org.dita-bootstrap.dtd/dtd/catalog.xml"/>
 
   <!-- Core Mappings using plugin: URIs -->
 
   <public
     publicId="-//DITA Bootstrap//ENTITIES DITA Bootstrap Domain//EN"
-    uri="plugin:org.dita-bootstrap.specialization/dtd/base/bootstrapDomain.ent"
+    uri="plugin:org.dita-bootstrap.dtd/dtd/base/bootstrapDomain.ent"
   />
   <public
     publicId="-//DITA Bootstrap//ELEMENTS DITA Bootstrap Domain//EN"
-    uri="plugin:org.dita-bootstrap.specialization/dtd/base/bootstrapDomain.mod"
+    uri="plugin:org.dita-bootstrap.dtd/dtd/base/bootstrapDomain.mod"
   />
   <public
     publicId="-//DITA Bootstrap//ELEMENTS DITA Bootstrap Common Overrides//EN"
-    uri="plugin:org.dita-bootstrap.specialization/dtd/base/commonElements.mod"
+    uri="plugin:org.dita-bootstrap.dtd/dtd/base/commonElements.mod"
   />
 
   <system
@@ -43,14 +41,14 @@
   <!-- Core System mappings using Suffix-matching (most robust for CI) -->
   <systemSuffix
     systemIdSuffix="bootstrapDomain.ent"
-    uri="plugin:org.dita-bootstrap.specialization/dtd/base/bootstrapDomain.ent"
+    uri="plugin:org.dita-bootstrap.dtd/dtd/base/bootstrapDomain.ent"
   />
   <systemSuffix
     systemIdSuffix="bootstrapDomain.mod"
-    uri="plugin:org.dita-bootstrap.specialization/dtd/base/bootstrapDomain.mod"
+    uri="plugin:org.dita-bootstrap.dtd/dtd/base/bootstrapDomain.mod"
   />
   <systemSuffix
     systemIdSuffix="commonElements.mod"
-    uri="plugin:org.dita-bootstrap.specialization/dtd/base/commonElements.mod"
+    uri="plugin:org.dita-bootstrap.dtd/dtd/base/commonElements.mod"
   />
 </catalog>
