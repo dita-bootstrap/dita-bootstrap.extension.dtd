@@ -38,8 +38,7 @@
               </p>
               <codeblock outputclass="language-bash"><cmdname>dita</cmdname> <parmname
               >install</parmname> org.dita-bootstrap.dtd
-<cmdname>dita</cmdname> <parmname
-              >install</parmname> org.dita-bootstrap.extension.dtd</codeblock>
+<cmdname>dita</cmdname> <parmname>install</parmname> org.dita-bootstrap.extension.dtd</codeblock>
             </li>
             <li>
               <p>For HTML generation, install the CSS plug-in and the HTML plug-in as shown:
@@ -74,8 +73,7 @@
               </p>
               <codeblock outputclass="language-bash"><cmdname>dita</cmdname> <parmname
               >--install</parmname> org.dita-bootstrap.dtd
-<cmdname>dita</cmdname> <parmname
-              >--install</parmname> org.dita-bootstrap.extension.dtd</codeblock>
+<cmdname>dita</cmdname> <parmname>--install</parmname> org.dita-bootstrap.extension.dtd</codeblock>
           </li>
           <li>
           <p>For HTML generation, install the CSS plug-in and the HTML plug-in as shown:
