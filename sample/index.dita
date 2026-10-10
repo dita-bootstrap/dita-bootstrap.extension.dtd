@@ -37,7 +37,8 @@
                generate Bootstrap Extension components:
               </p>
               <codeblock outputclass="language-bash"><cmdname>dita</cmdname> <parmname
-              >install</parmname> org.dita-bootstrap.dtd<cmdname>dita</cmdname> <parmname
+              >install</parmname> org.dita-bootstrap.dtd
+<cmdname>dita</cmdname> <parmname
               >install</parmname> org.dita-bootstrap.extension.dtd</codeblock>
             </li>
             <li>
@@ -72,7 +73,8 @@
                generate Bootstrap components:
               </p>
               <codeblock outputclass="language-bash"><cmdname>dita</cmdname> <parmname
-              >--install</parmname> org.dita-bootstrap.dtd<cmdname>dita</cmdname> <parmname
+              >--install</parmname> org.dita-bootstrap.dtd
+<cmdname>dita</cmdname> <parmname
               >--install</parmname> org.dita-bootstrap.extension.dtd</codeblock>
           </li>
           <li>
